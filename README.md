@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonasGijsbrechtsPXL
-- 👀 I’m interested in creating, managing and destroying systems and networks
+- 👀 I’m interested in creating, managing and destroying networks including there systems
 - 🌱 I’m currently learning System & Network management
 - 💞️ I’m looking to collaborate on projects that help me evolve 
 - 📫 How to reach me? ... 
